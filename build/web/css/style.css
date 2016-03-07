@@ -1,0 +1,25 @@
+#wrapper{width: 1100px;padding: 0 50px; margin:0 auto}
+#header{height: 235px; width: 1100px; background:url(../images/header1.png) top right no-repeat;}
+#logo{padding-top: 65px;margin-left: 0}
+
+#menu{width: 1100px; height: 69px;background:url(../images/menu.png) no-repeat;}
+#menu ul{float: left;list-style-type: none;}
+#menu ul li{float: left; min-width: 110px; padding: 0 15px; line-height: 10px;}
+#menu ul li a{text-decoration: none; color: #fff; font-size: 16px; font-family:Verdana,Geneva,sans-serif;display: block;}
+li a:hover {  color:black;}
+
+#about{height: 380px; width: 1100px;margin-right: 20px; background:url(../images/free-593907447142877283.jpg) top right no-repeat}
+#contents{ float: lefts; padding-top: 70px}
+#contents h2{color: #00aeef;font-family:Verdana,Geneva,sans-serif;padding-left: 20px;}
+
+#contents pre{font-family:Verdana,Geneva,sans-serif;padding-left: 20px;color:#707070}
+#taps h3{color: #00aeef;font-family:Verdana,Geneva,sans-serif;padding-left: 20px;}
+.tap{width: 460px;height: 170px;float: left;border: 1px solid ;color:#00aeef ;padding: 20px; margin: 23px;font-family:Verdana,Geneva,sans-serif;}
+.tap p{color: #707070;}
+#footer{line-height: 500px; background:url(../images/footer.png) bottom no-repeat}
+.test{font-family:Verdana,Geneva,sans-serif;color: #00aeef; }
+.test p{color:#707070;}
+.test input[type="text"]{width: 195px;height: 25px;margin-bottom: 10px;padding: 5px;text-align: center;margin-right: 50px;border-radius: 20px;border:0;padding:5px;margin-left:5px}
+.test input[type="submit"]{width: 195px;height: 50px;margin-left:215px; background-color:#00aeef;color:#707070; font-size: 30px; border: 0;border-radius: 20px;margin-bottom:15px}
+input[type="submit"]:hover{background-color:#707070;color:white;  }
+#input{background-color: aquamarine;padding-right: 60px; min-height: 490px;width: 500px; margin-left: 200px;padding-left: 60px;border-radius: 20px;padding-top:20px}
